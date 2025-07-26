@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 ## 🚀 About Me
 
 - 🧠 I specialize in:
-  - **Full Stack JavaScript Development** (Node.js, React, Next.js, Express)
   - **Browser Extensions** (Chrome, Firefox, Edge)
   - **OpenAI API Integrations** (ChatGPT, GPT-4, Whisper, DALL·E, and more)
+  - **Full Stack JavaScript Development** (Node.js, React, Next.js, Express)
   - **RESTful APIs & Backend Services**
   - **Database Workflows** (MongoDB, PostgreSQL, Firebase)
 
